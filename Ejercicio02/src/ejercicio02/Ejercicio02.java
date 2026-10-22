@@ -1,11 +1,11 @@
 package ejercicio02;
 public class Ejercicio02 {
    public static void main(String[] args) {
-        // Resolución del problema
+        // Resolucion del problema
         int var1 = 10;
         int var2 = 2;
         int resultado = (int) (Math.pow(var1, var2) + var1);
                 
-        System.out.println("La solución es:  " + resultado);
+        System.out.println("La solucion es:  " + resultado);
     }
 }
